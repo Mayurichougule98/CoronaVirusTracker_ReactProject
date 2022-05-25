@@ -1,3 +1,7 @@
+# Cornoa Virus World Wide Tracker Project
+Using React JS (Used Axios, react-number-format, chart.js, reactchartjs2)
+![screenshot](https://user-images.githubusercontent.com/66617748/170261892-53ab19c0-78c2-45fb-ae6e-4b64a7a44dca.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
